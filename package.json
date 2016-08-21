@@ -1,0 +1,19 @@
+{
+  "name": "aws-lambda-pco-data-extractor",
+  "version": "1.0.0",
+  "description": "An AWS Lambda function to get PlanningCenterOnline data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bwjjohnson/aws-lambda-pco-data-extractor.git"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.4.6",
+    "node-lambda": "^0.8.6",
+    "node-s3-encryption-client": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Ben Johnson",
+  "license": "GPLv3"
+}

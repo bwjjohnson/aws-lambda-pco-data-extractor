@@ -1,0 +1,8 @@
+{
+  "putCreds": {
+    "name": "pco",
+    "accessKey": "access key string",
+    "secretKey": "secret key string"
+  }
+}
+
