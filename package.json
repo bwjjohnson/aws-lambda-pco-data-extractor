@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "aws-sdk": "^2.4.6",
-    "node-lambda": "^0.8.6",
-    "node-s3-encryption-client": "0.0.2"
+    "deasync": "^0.1.10",
+    "node-lambda": "^0.8.6"
   },
   "devDependencies": {},
   "scripts": {},
